@@ -6,7 +6,7 @@ Instalar a IDE [VSCode](https://code.visualstudio.com/)
 
 Baixar e instalar o gerenciador de ambientes miniconda neste link:
 
-https://www.anaconda.com/docs/getting-started/miniconda/install#linux-2
+https://www.anaconda.com/docs/getting-started/miniconda/install/overview
 
 No terminal, executar os seguintes comandos:
 

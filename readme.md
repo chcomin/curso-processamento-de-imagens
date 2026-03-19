@@ -21,7 +21,7 @@ O curso é dividio em módulos (M01, M02, ...). Cada módulo possui dois diretó
 
 ## Bibliografia
 
-* Livro referência para processamento digital de imagens: [Processamento Digital de Imagens, R. Gonzalez e R. Woods](https://www.amazon.com.br/Processamento-digital-imagens-Rafael-Gonzalez/dp/8576054019)
+* Livro referência para processamento digital de imagens: [Processamento Digital de Imagens, R. Gonzalez e R. Woods](https://www.amazon.com/Digital-Image-Processing-Rafael-Gonzalez/dp/0133356728)
 
 * Principal referência sobre todas as subáreas de Visão Computacional: Computer Vision: Algorithms and Applications, segunda edição, Richard Szeliski. O livro pode ser obtido online em https://szeliski.org/Book. 
 
