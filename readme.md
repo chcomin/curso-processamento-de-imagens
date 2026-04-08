@@ -30,3 +30,11 @@ Tutorial sobre conceitos Python e numpy: https://cs231n.github.io/python-numpy-t
 ## Configuração do ambiente
 
 Veja as instruções na parte prática do [módulo M01](M01_visao_biologica_e_artificial/pratica/preparacao_do_ambiente.md).
+
+## Videaulas da disciplina ministrada em 2021
+
+A seguinte playlist do Youtube possui os vídeos da disciplina ministrada em 2021:
+
+[Videoaulas PDI](https://youtube.com/playlist?list=PLV6nBLHbx0riEUDgJrAogzpAt3qQquKVR&si=O4TyXHKcSoXqZqz3)
+
+Há algumas diferenças de detalhes de implementação, mas os assuntos são os mesmos da disciplina do semestre atual. A principal diferença é que na disciplina de 2021 foi usada a interface nativa do Jupyter ao invés do VSCode.
